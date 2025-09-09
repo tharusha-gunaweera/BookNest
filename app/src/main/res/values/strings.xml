@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookNest</string>
+    <string name="onboard_string_topic">Discover Unlimited Stories</string>
+    <string name="onboard_string_quote">“ Explore a vast collection of E-Books across all genres ”</string>
+    <string name="onboard_string_topic2">"Read Anytime Anywhere"</string>
+    <string name="onboard_string_quote2">“ Enjoy seamless reading on any device, anytime ”</string>
+    <string name="onboard_string_topic3">Your Library, Your Way</string>
+    <string name="onboard_string_quote3">““ Save favorites, bookmark pages,
+        and personalize your reading experience ”</string>
+    <string name="onboard_string_topic4">Begin Your Reading Adventure</string>
+    <string name="onboard_string_quote4">“ Get started today and dive into a world of knowledge! ”</string>
+    <string name="home_topic">Welcome to Book Nest</string>
+    <string name="home_quote">“Where Every Story Finds a Home. Dive into a world of
+        endless knowledge, adventure, and imagination, all in one place.”</string>
+</resources>

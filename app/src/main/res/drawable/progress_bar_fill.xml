@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#6200EE" /> <!-- Progress color -->
+
+    <!-- Set height of the progress part -->
+</shape>
